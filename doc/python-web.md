@@ -10,6 +10,16 @@ flask 是一个轻量级的 Web 应用框架, 使用 Python 编写。基于 [Wer
 - [ItsDangerous](https://pythonhosted.org/itsdangerous/): 安全地注入数据以确保数据的完整性，通常用于保护 Flask 的 session cookie。
 - [Click](https://click.palletsprojects.com/en/7.x/): 一个解析命令行的应用，它支持在 Flask 中自定义管理命令。
 
+
+
+## 蓝图
+
+[认识flask 蓝图（blueprint）技术 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/357444025)
+
+
+
+
+
 ## 基础使用
 
 连接ip: 10.101.5.14
